@@ -1,4 +1,4 @@
-# Voxxed Days Melbourne 2018: Streaming Data Platforms & Clojure
+# Voxxed Days Melbourne: Streaming Data Platforms & Clojure
 
 Toward the end of the talk we live-code a streaming data platorm, and:
 
